@@ -1,10 +1,5 @@
 ﻿# Create-Custom-Server-Using-HTTP
 
-# Custom HTTP Server 
-
-यह प्रोजेक्ट एक Custom HTTP Server है जो आपके static pages (Home, Skills, Projects, Contact) को बिना किसी external framework के serve करता है। यह lightweight, fast और बिल्कुल simple implementation है जिसे आप अपने portfolio या learning projects में use कर सकते हैं।
-
----
 
 ## Website Screenshots
 
@@ -27,5 +22,6 @@
 - Fast static file serving
 - Clean project structure
 - Easy to customize
+
 
 
