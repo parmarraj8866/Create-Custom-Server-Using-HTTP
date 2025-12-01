@@ -28,8 +28,4 @@
 - Clean project structure
 - Easy to customize
 
----
-
-## Project Structure
-
 
