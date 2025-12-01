@@ -9,10 +9,10 @@
 ## Website Screenshots
 
 ### 🏠 Home Page
-![Home Page](./Home page.png)
+![Home Page](./Home%20page.png)
 
 ### 🛠️ Skills And 📂 Projects Page
-![Skills Page](./skill and projects.png)
+![Skills Page](./skill%20and%20projects.png)
 
 ### 📞 Contact Page
 ![Contact Page](./contact.png)
@@ -31,4 +31,5 @@
 ---
 
 ## Project Structure
+
 
